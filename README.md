@@ -1,5 +1,5 @@
 ## JumpCloud Event API Get Script
-このスクリプトはJumpCloud EventAPIを利用して、イベントログを取得するスクリプトです。
+このスクリプトはJumpCloud EventAPIを利用して、7日間のイベントログを取得するスクリプトです。
 
 ## 利用方法
 別途シェルスクリプトを作成して、  
